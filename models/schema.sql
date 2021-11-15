@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS thepackdb;
-CREATE DATABASE thepackdb;
+DROP DATABASE IF EXISTS vehicle-app;
+CREATE DATABASE vehicle-app;
