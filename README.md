@@ -25,7 +25,3 @@ As a car/motorcycle enthusiast, I want to keep track of my cars of interest on a
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-# car-app
-# car-app
-# car-app
