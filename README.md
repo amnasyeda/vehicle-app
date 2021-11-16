@@ -2,7 +2,7 @@
 This application draws from public information to find motorcycle and car events, as well as keep track of your favorite vehicles and list of parts. There is also a page where you can search for recalls for a specific vehicle.
 
 ## About
-As a car/motorcycle enthusiast, I want to keep track of my cars of interest on an app, as well as view related events near me and to check for any recalls. The Pack's Colossal Hog site does this all on one site!
+As a car/motorcycle enthusiast, I want to keep track of my cars of interest on an app, as well as view related events near me and to check for any recalls.
 
 ## Built With
 
