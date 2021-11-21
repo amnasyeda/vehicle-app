@@ -1,4 +1,4 @@
-# Your all-in-one Auto Application
+# Your All-in-One Auto App
 This application contains many functions for those interested in cars. It allows the user to find car and motorcycle events in their area, as well as keep track of their favorite vehicles and list of parts. The user is also able to navigate through a selected vehicle in order to search for recalls for that year and specific model. 
 
 ## About
