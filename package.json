@@ -1,5 +1,5 @@
 {
-  "name": "thepackproject",
+  "name": "vehicle-app",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "test": "npm run lint"
   },
   "keywords": [],
-  "author": "Brianna McCray, Crystal Ly, Josh Kuruvilla, Harrison Thomas",
+  "author": "Amna Syeda",
   "license": "ISC",
   "dependencies": {
     "ajax": "0.0.4",
