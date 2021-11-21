@@ -3,6 +3,10 @@ This application contains many functions for those interested in cars. It allows
 
 ## About
 As a car/motorcycle enthusiast, I want to be able to keep track of my cars of interest on an app, as well as view related events near me and to check for any recalls.
+<img width="1238" alt="Screen Shot 2021-11-21 at 10 40 08 AM" src="https://user-images.githubusercontent.com/81194686/142768671-3d71c79a-03a3-42e6-839a-f5e38ede1147.png">
+
+
+
 
 ## Built With
 
